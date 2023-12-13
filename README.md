@@ -1,2 +1,2 @@
 # python-lessons
-Bu reository python darslari uchun
+Bu repository python darslari uchun
